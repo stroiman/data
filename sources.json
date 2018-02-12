@@ -86,6 +86,11 @@
       "keywords": ["opengl", "graphics"],
       "comment": "Inadequate readme, missing license"
     },
+    "@stroiman/respect": {
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["testing"]
+    },
     "add-reason": {
       "category": "tool",
       "platforms": ["node"],
@@ -657,11 +662,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["database"],
       "comment": "Inadequate readme"
-    },
-    "re-respect": {
-      "category": "library",
-      "platforms": ["node"],
-      "keywords": ["testing"]
     },
     "re-spring": {
       "category": "library",
